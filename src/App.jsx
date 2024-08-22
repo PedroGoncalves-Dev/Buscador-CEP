@@ -96,7 +96,7 @@ function App() {
 
           {!loading && !error && (!endereco || !endereco.cep) &&  ( //se o loading for false e error falso e (endereco falso ou endereco.cep falso)
 
-              <h2 style={{color:'#ccc'}}>Digite um cep para poder mostrar o endereço...</h2>
+              <h2 style={{color:'#363636'}}>Digite um cep para poder mostrar o endereço...</h2>
 
           )}
 
