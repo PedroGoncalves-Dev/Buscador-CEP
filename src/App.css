@@ -65,6 +65,9 @@
   background-color: #fff;
   width: 500px;
   border-radius: 8px;
+  text-align: center;
+  box-sizing: border-box;
+  min-height: 212px;
 }
 
 .main h2{
